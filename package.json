@@ -2,9 +2,12 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Shivam Chawla",
 	"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words", "freecodecamp" ],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
-	},
+		},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
